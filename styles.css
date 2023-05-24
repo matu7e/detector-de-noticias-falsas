@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-repeat: no-repeat;
+    
     font-family: 'Kanit', sans-serif;
   }
   
@@ -84,6 +85,35 @@ body {
   button{
     width: 200px;
   }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   @media screen and (max-width: 450px) {
     h1 {
